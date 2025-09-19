@@ -1,0 +1,8 @@
+name: "nul"
+displayName: "Nolea Siege"
+author: SpaceTwoo
+description: "WELCOME TO STATION DOUBLE R.. public test version"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
